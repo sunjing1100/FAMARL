@@ -25,10 +25,6 @@ uv sync --all-extras
 ```
 
 
-### Quickstart Notebooks
-
-
-- [quickstart-hcvrp.ipynb](examples/quickstart-hcvrp.ipynb): HCVRP (Heterogeneous Capacitated Vehicle Routing Problem)
 
 ### Train your own model
 
