@@ -1,0 +1,2 @@
+_target_: famarl.envs.hcvrp.HCVRPEnv
+name: hcvrp
